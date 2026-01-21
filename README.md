@@ -1,9 +1,5 @@
 # toxic-app
-Nice idea 👌 A **toxic-free chat app** is a strong pitch already. Here’s clean, ready-to-drop **README.md** content you can tweak to your stack and app name.
-
----
-
-# 🌱 Toxic-Free Chat App
+# Toxic-Free Chat App
 
 A real-time chat application designed to promote **healthy, respectful, and inclusive conversations**. This app actively reduces toxicity using moderation tools, smart filters, and community-first design principles.
 
@@ -63,9 +59,7 @@ DATABASE_URL=your_database_url
 npm test
 ```
 
-## 📸 Screenshots
 
-> Add screenshots or GIFs here to show the chat interface and moderation flow.
 
 ## 🌱 Vision
 
@@ -93,5 +87,3 @@ This project is licensed under the **MIT License**.
 * Multilingual toxicity detection
 * Voice & video chat moderation
 * Community reputation system
-
-…and I’ll tailor this README to be 🔥 *portfolio-level*.
