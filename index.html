@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Toxic-Free Chat App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h2>💬 Toxic-Free Chat Application</h2>
+
+  <div id="chatBox"></div>
+
+  <input type="text" id="username" placeholder="Enter your name">
+  <input type="text" id="message" placeholder="Type your message">
+  <button onclick="sendMessage()">Send</button>
+
+  <p id="warning"></p>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>
